@@ -8,7 +8,7 @@ declare global {
 		// interface Platform {}
 	}
 	interface Window {
-		initMap: () => void
+		initmap: () => void
 	}
 }
 
